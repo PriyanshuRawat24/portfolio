@@ -32,7 +32,7 @@ const carouselData = [
     title: "Chat App",
     description: "Real-time messaging application with group chat and file sharing capabilities.",
     techStack: ["Html", "CSS", "Javascript"],
-    imageUrl: "/chat-app.png",
+    imageUrl: "/Chat-app.png",
     projectUrl: "https://github.com/PriyanshuRawat24/Chat-App",
   },
   {
