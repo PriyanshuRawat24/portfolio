@@ -59,7 +59,7 @@ export default function Technologies() {
         My Skills
       </motion.p>
 
-      <div className="max-w-5xl mx-auto space-y-10">
+      <div className="max-w-5xl mx-auto space-y-10 p-5">
         {technologies.map((tech, index) => (
           <motion.div
             key={index}

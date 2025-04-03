@@ -22,7 +22,7 @@ const experiences = [
 const Experience = () => {
   return (
     <div className="bg-gray-900 text-white min-h-screen flex items-center justify-center">
-      <div className="max-w-3xl w-full relative mt-32">
+      <div className="max-w-3xl w-full relative mt-32 p-5">
         <h1 className="text-7xl font-bold mb-4 text-center">Work Experience</h1>
         <h2 className="text-2xl font-semibold mb-6 text-center text-gray-200/30">What I{'\''}ve done so far</h2>
 
